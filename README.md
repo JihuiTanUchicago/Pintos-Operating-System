@@ -2,6 +2,6 @@
 
 ***Design Doc for Proj2 in pintos-p2/pintos-raw/src/userprog***
 
-***Design Doc for Proj3 in pintos-p2/pintos-raw/src/vm***
+***Design Doc for Proj3 in pintos-p3/pintos-raw/src/vm***
 
-***Design Doc for Proj4 in pintos-p2/pintos-raw/src/filesys***
+***Design Doc for Proj4 in pintos-p4/pintos-raw/src/filesys***
